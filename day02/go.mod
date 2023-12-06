@@ -1,3 +1,3 @@
-module aocday2
+module aocday02
 
 go 1.21.1
