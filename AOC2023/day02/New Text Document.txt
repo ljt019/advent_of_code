@@ -1,0 +1,7 @@
+package main
+
+var array []string
+
+func main() {
+
+}
