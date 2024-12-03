@@ -33,6 +33,6 @@ fn main() {
     println!("\nDay 2");
     day_2::day_2();
 
-    // println!("\nDay 3");
-    // day_3::day_3();
+    println!("\nDay 3");
+    day_3::day_3();
 }
